@@ -39,5 +39,4 @@ This project uses an Adafruit Circuit Playground to detect Parkinsonian tremors 
    - Repeat the process to allow the device to adjust its threshold values and improve accuracy.
 
 # Submission Details
-- Group Number: 16
 - Author: Matthew Nunez (mn3040)
