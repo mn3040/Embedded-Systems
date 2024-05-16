@@ -3,7 +3,7 @@
 This project consists of two parts: a tremor detection system using FFT (Fast Fourier Transform) to analyze accelerometer data, and a PWM (Pulse Width Modulation) control system based on potentiometer input.
 
 ## Youtube Presentation Link
-Check out our project on Youtube: [PetPal on Devpost](https://youtu.be/1L3QSWorLYs)
+Check out our project on Youtube: [TremorTrack on Youtube](https://youtu.be/1L3QSWorLYs)
 
 
 ## Features
